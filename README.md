@@ -2,8 +2,8 @@
 
 This project aims to predict customer churn using various machine learning models and optimization techniques. By analyzing customer demographics, account information, and service usage, the goal is to identify patterns that indicate the likelihood of a customer leaving the company.
 
-🔗 **Live Project Notebook on GitHub:**  
-[IBM-Telco-Churn-Prediction](https://github.com/amharringthon/IBM-Telco-Churn-Prediction)
+🔗 **Full Project Report on Notion:**  
+[Customer Churn Prediction – IBM Telco Dataset](https://rounded-authority-5e3.notion.site/Customer-Churn-Prediction-IBM-Telco-Dataset-10fe124aeb798148993fcc2eb9e63180?pvs=74)
 
 ---
 
