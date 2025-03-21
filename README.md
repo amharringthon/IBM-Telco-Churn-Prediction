@@ -13,7 +13,6 @@ This project aims to predict customer churn using various machine learning model
 🔹 dataset/                # Contains the IBM Telco dataset  
 🔹 notebook.ipynb          # Main Jupyter notebook with full analysis  
 🔹 model/                  # Folder containing the exported final model  
-🔹 images/                 # Visualizations used in documentation  
 🔹 README.md               # Project overview and documentation  
 ```
 
